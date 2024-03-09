@@ -49,7 +49,7 @@ pip install pyperclip
 <h3>Run the Application:</h3>
 
 Execute the following command to run the password manager:
-python password_manager.py
+python main.py
 
 ### Usage:
 
